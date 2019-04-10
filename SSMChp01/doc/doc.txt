@@ -1,0 +1,19 @@
+搭建mybatis环境：
+1.引入mybatisjar包
+2.创建mybatis核心配置文件
+    a。数据库连接
+    b。映射文件
+3.创建实体类 pojo
+4.创建dao层，创建mapper.xml（对应数据表）     
+    命名格式：实体类名+mapper.xml 
+   注意：mapper文件中mapper命名空间唯一
+      操作语句id唯一  
+ 调用：
+  1、读取核心配置文件
+  2.创建工厂
+  3.打开会话
+  4.调用会话中的方法     
+      
+      
+      
+    

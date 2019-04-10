@@ -1,0 +1,26 @@
+2017-07-24 14:39:16org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:115) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2017-07-24 14:39:16org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:304) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2017-07-24 14:39:16org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:304) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2017-07-24 14:39:16org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:304) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2017-07-24 14:39:16org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:304) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2017-07-24 14:39:16org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:129) JdbcTransaction.java DEBUG Opening JDBC Connection
+2017-07-24 14:39:16org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:378) PooledDataSource.java DEBUG Created connection 793905228.
+2017-07-24 14:39:16org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:132) BaseJdbcLogger.java DEBUG ooo Using Connection [com.mysql.jdbc.JDBC4Connection@2f52084c]
+2017-07-24 14:39:16org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:132) BaseJdbcLogger.java DEBUG ==>  Preparing: select * from smbms_user 
+2017-07-24 14:39:16org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:132) BaseJdbcLogger.java DEBUG ==> Parameters: 
+2017-07-24 14:39:17org.apache.ibatis.transaction.jdbc.JdbcTransaction.resetAutoCommit(JdbcTransaction.java:117) JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2f52084c]
+2017-07-24 14:39:17org.apache.ibatis.transaction.jdbc.JdbcTransaction.close(JdbcTransaction.java:85) JdbcTransaction.java DEBUG Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2f52084c]
+2017-07-24 14:39:17org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:332) PooledDataSource.java DEBUG Returned connection 793905228 to pool.
+2017-07-24 14:39:17TestDemo.testGetAllUser(TestDemo.java:29) TestDemo.java DEBUG 系统管理员
+2017-07-24 14:39:17TestDemo.testGetAllUser(TestDemo.java:29) TestDemo.java DEBUG 李明
+2017-07-24 14:39:17TestDemo.testGetAllUser(TestDemo.java:29) TestDemo.java DEBUG 韩路彪
+2017-07-24 14:39:17TestDemo.testGetAllUser(TestDemo.java:29) TestDemo.java DEBUG 张华
+2017-07-24 14:39:17TestDemo.testGetAllUser(TestDemo.java:29) TestDemo.java DEBUG 王洋
+2017-07-24 14:39:17TestDemo.testGetAllUser(TestDemo.java:29) TestDemo.java DEBUG 赵燕
+2017-07-24 14:39:17TestDemo.testGetAllUser(TestDemo.java:29) TestDemo.java DEBUG 孙磊
+2017-07-24 14:39:17TestDemo.testGetAllUser(TestDemo.java:29) TestDemo.java DEBUG 孙兴
+2017-07-24 14:39:17TestDemo.testGetAllUser(TestDemo.java:29) TestDemo.java DEBUG 张晨
+2017-07-24 14:39:17TestDemo.testGetAllUser(TestDemo.java:29) TestDemo.java DEBUG 邓超
+2017-07-24 14:39:17TestDemo.testGetAllUser(TestDemo.java:29) TestDemo.java DEBUG 杨过
+2017-07-24 14:39:17TestDemo.testGetAllUser(TestDemo.java:29) TestDemo.java DEBUG 赵敏
+2017-07-24 14:39:17TestDemo.testGetAllUser(TestDemo.java:29) TestDemo.java DEBUG testname
